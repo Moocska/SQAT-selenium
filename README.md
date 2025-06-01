@@ -1,7 +1,7 @@
 # SQAT-selenium
 Third homework for SQAT practice. Selenium tests.
 
-Choosen website: https://fable.co/
+Choosen website: https://www.zooplus.hu/
 
 # Submited for grade 3
 
